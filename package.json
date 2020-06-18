@@ -1,0 +1,31 @@
+{
+  "name": "react-native-fonts",
+  "version": "1.0.0",
+  "description": "A font package to last you through the Times (New Roman).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarbonDown/react-native-fonts.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-fonts",
+    "react",
+    "native",
+    "fonts",
+    "fonts",
+    "native",
+    "fonts",
+    "design",
+    "guide"
+  ],
+  "author": "Ian Arko <ian@gocarbondown.com> (http://gocarbondown.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarbonDown/react-native-fonts/issues"
+  },
+  "homepage": "https://github.com/CarbonDown/react-native-fonts#readme"
+}
